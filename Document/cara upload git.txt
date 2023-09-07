@@ -1,0 +1,18 @@
+meng-clone sebuah repositroy ke lokal folder
+tambahkan file (gambar, dokumen, code, dll) ke dalam folder cloningan repo tadi
+masuk ke folder dengan cd nama_folder
+meng upload file ke repo dengan git add nama_file
+commit dengan git commit -m "pesan"
+mengirim perubahan ke repo dengan git push
+
+
+membuat branch baru dengan mengetikkan git branch branch-pertama
+berpindah ke branch tersebut dengan git checkout branch-pertama.
+untuk mengecek berapa branch yang kita miliki dengan git branch
+tambahkan file baru secara manual
+meng upload file ke repo dengan git add nama_file
+commit dengan git commit -m "commit 1"
+mengirim perubahan ke repo dengan git push origin branch-pertama
+
+mulai dari f
+i sesuaikan nama file nya
