@@ -1,0 +1,142 @@
+/* body full */
+body {
+	background-color: #fafafa;
+}
+
+/* gambar */
+.kiri {
+	margin-top: 10px;
+	margin-left: 350px;
+	width: 320px;
+}
+
+/* ========================================= */
+/* form login */
+.kanan {
+	background-color: white;
+	padding: 50px;
+	width: 200px;
+	border: 1px solid rgb(218, 211, 211);
+}
+.kanan-all {
+	margin-top: -480px;
+	margin-left: 690px;
+}
+/* logo */
+.logo {
+	margin-top: -50px;
+	margin-left: 25px;
+	width: 150px;
+}
+/* tombol login */
+.login {
+	margin-top: -15px;
+	background-color: #4cb5f9;
+	color: white;
+	border-radius: 5px;
+	border: 0px;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 260px;
+	height: 30px;
+}
+/* inputan */
+.inputan {
+	margin-left: -30px;
+}
+input {
+	border: 1px solid rgb(227, 222, 222);
+	background-color: #fafafa;
+	width: 250px;
+	height: 30px;
+}
+/* inputan password */
+.password {
+	margin-top: -10px;
+}
+/* OR */
+.atau {
+	margin-top: -10px;
+	margin-left: -0px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+/* garis OR */
+.garis {
+	background-color: black;
+	height: 1px;
+	width: 200px;
+}
+/* facebook */
+.facebook-tulisan {
+	margin-top: -29px;
+	font-size: 15px;
+	margin-left: 50px;
+	color: #4cb5f9;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.face {
+	margin-top: -10px;
+	margin-left: 0px;
+}
+.facebook-tulisan1 {
+	margin-left: 60px;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: -30px;
+}
+
+/* ========================================= */
+/* sign up / daftar */
+.bawah {
+	background-color: white;
+	height: -15px;
+	width: 300px;
+	border: 1px solid rgb(218, 211, 211);
+}
+.daftar {
+	color: #4cb5f9;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.bawah-tulisan {
+	margin-top: 20px;
+	margin-left: 60px;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ========================================= */
+/* get app */
+.get {
+	margin-top: 5px;
+	margin-left: 120px;
+}
+.foto {
+	margin-top: -10px;
+	width: 140px;
+}
+.foto1 {
+	margin-top: -10px;
+	margin-left: 25px;
+	width: 120px;
+}
+
+/* ========================================= */
+/* Tulisan Bawah */
+.tulisan-bawah {
+	color: rgb(183, 176, 176);
+	margin-top: 40px;
+	text-align: center;
+}
+.tulisan1 {
+	color: rgb(183, 176, 176);
+	margin-top: -15px;
+	text-align: center;
+}
+.chevron {
+	width: 10px;
+}

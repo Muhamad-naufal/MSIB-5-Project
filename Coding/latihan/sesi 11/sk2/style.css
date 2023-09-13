@@ -1,0 +1,25 @@
+nav {
+	height: 50px;
+	margin: auto;
+	text-align: center;
+	width: 100%;
+	font-family: arial;
+}
+
+nav ul {
+	margin-top: -10px;
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+	display: block;
+	padding: 25px;
+	color: black;
+	text-decoration: none;
+}
