@@ -7,7 +7,7 @@ body {
 .kiri {
 	margin-top: 10px;
 	margin-left: 350px;
-	width: 320px;
+	width: 310px;
 }
 
 /* ========================================= */
@@ -19,7 +19,7 @@ body {
 	border: 1px solid rgb(218, 211, 211);
 }
 .kanan-all {
-	margin-top: -480px;
+	margin-top: -460px;
 	margin-left: 690px;
 }
 /* logo */
@@ -37,7 +37,7 @@ body {
 	border: 0px;
 	font-weight: 600;
 	font-family: Arial, Helvetica, sans-serif;
-	width: 260px;
+	width: 255px;
 	height: 30px;
 }
 /* inputan */
@@ -54,20 +54,19 @@ input {
 .password {
 	margin-top: -10px;
 }
+
+/* ========================================= */
 /* OR */
 .atau {
 	margin-top: -10px;
-	margin-left: -0px;
 	display: flex;
-	flex-direction: row;
-	justify-content: center;
 	align-items: center;
 }
 /* garis OR */
 .garis {
 	background-color: black;
 	height: 1px;
-	width: 200px;
+	width: 100px;
 }
 /* facebook */
 .facebook-tulisan {
@@ -94,6 +93,7 @@ input {
 .bawah {
 	background-color: white;
 	height: -15px;
+	margin-top: 10px;
 	width: 300px;
 	border: 1px solid rgb(218, 211, 211);
 }
@@ -103,8 +103,7 @@ input {
 	font-family: Arial, Helvetica, sans-serif;
 }
 .bawah-tulisan {
-	margin-top: 20px;
-	margin-left: 60px;
+	text-align: center;
 	font-size: 13px;
 	font-family: Arial, Helvetica, sans-serif;
 }
@@ -116,21 +115,22 @@ input {
 	margin-left: 120px;
 }
 .foto {
-	margin-top: -10px;
-	width: 140px;
+	margin-top: 1.8px;
+	width: 110px;
+	height: 35px;
 }
 .foto1 {
-	margin-top: -10px;
-	margin-left: 25px;
-	width: 120px;
+	margin-left: 42px;
+	width: 110px;
+	height: 35px;
 }
 
 /* ========================================= */
 /* Tulisan Bawah */
 .tulisan-bawah {
-	font-size: 12px;
+	font-size: 10px;
 	color: rgb(183, 176, 176);
-	margin-top: 40px;
+	margin-top: 65px;
 	text-align: center;
 }
 .tulisan1 {
@@ -139,5 +139,6 @@ input {
 	text-align: center;
 }
 .chevron {
-	width: 10px;
+	width: 7px;
+	height: 5px;
 }
