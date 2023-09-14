@@ -128,13 +128,14 @@ input {
 /* ========================================= */
 /* Tulisan Bawah */
 .tulisan-bawah {
+	font-size: 12px;
 	color: rgb(183, 176, 176);
 	margin-top: 40px;
 	text-align: center;
 }
 .tulisan1 {
 	color: rgb(183, 176, 176);
-	margin-top: -15px;
+	margin-top: -5px;
 	text-align: center;
 }
 .chevron {
