@@ -27,3 +27,62 @@ nav ul li a {
 	width: 1350px;
 	height: 200px;
 }
+h5 {
+	margin-left: 100px;
+}
+hr {
+	margin-left: 100px;
+	width: 50px;
+	margin-top: -20px;
+}
+.tulisan-ket {
+	margin-right: 600px;
+	text-align: justify;
+	margin-left: 100px;
+}
+.container {
+	margin-top: 70px;
+	margin-left: 30px;
+	margin-right: 70px;
+	width: 200px;
+	height: 200px;
+	background-color: #3498db;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.sidebar-text {
+	color: white;
+	font-size: 24px;
+}
+footer {
+	background-color: antiquewhite;
+	margin-top: 230px;
+	height: 5vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.tulisan-footer {
+	text-align: center;
+}
+.hero {
+	height: 60px;
+	margin-top: 50px;
+}
+.kanan {
+	margin-top: -250px;
+	margin-left: 900px;
+}
+.header {
+	height: 200px;
+	width: 1350px;
+	background-color: coral;
+}
+.tulisan-header {
+	font-size: 40px;
+	margin-top: -120px;
+	margin-left: 580px;
+	margin-bottom: 120px;
+}

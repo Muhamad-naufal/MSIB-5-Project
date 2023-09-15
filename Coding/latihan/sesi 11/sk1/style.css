@@ -19,10 +19,6 @@ hr {
 h5 {
 	font-weight: 900;
 }
-.gambar {
-	padding: 20px;
-	margin-top: 110px;
-}
 .btn {
 	background-color: yellow;
 	border: 3px solid yellow;
@@ -30,4 +26,11 @@ h5 {
 	padding: 10px;
 	margin-top: 20px;
 	font-weight: 900;
+}
+.kiri {
+	margin-top: -300px;
+	margin-left: 700px;
+}
+.kanan {
+	margin-right: 600px;
 }
