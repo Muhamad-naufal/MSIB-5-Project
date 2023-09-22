@@ -1,0 +1,143 @@
+body {
+	background-image: url(https://eduwork.id/assets/bg-hero.png) !important;
+}
+.kotak1 {
+	background-color: rgb(72, 72, 211);
+	height: 29px;
+	position: relative;
+	width: 30px;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	border-radius: 40px;
+	color: white;
+}
+.garis {
+	margin-top: 10px;
+	margin-bottom: -10px;
+	margin-left: 15px;
+	width: 0px;
+	height: 40px;
+	border: 1px dashed blue;
+}
+.panah {
+	margin-left: 12px;
+	transform: rotate(45deg);
+	border: solid blue;
+	border-width: 0 3px 3px 0;
+	display: inline-block;
+	padding: 3px;
+}
+
+button {
+	width: 200px;
+}
+span {
+	font-weight: bold;
+}
+.joined {
+	font-size: 20px;
+}
+.text {
+	font-size: 15px;
+}
+.kotak2 {
+	position: relative;
+	margin-left: -5px;
+	margin-bottom: -34px;
+	background-color: #e7f7ff;
+	height: 39px;
+	width: 40px;
+	margin-top: -3px;
+	border-radius: 40px;
+	color: white;
+}
+.kotakan {
+	border-radius: 10px;
+	position: relative;
+	z-index: 3 !important;
+	margin-top: -45px;
+	background-color: white;
+	height: 110px;
+	width: 400px;
+}
+.gambar {
+	z-index: 2;
+}
+.waves {
+	height: 10px;
+	margin-top: 448px;
+}
+.waves2 {
+	height: 10px;
+	margin-top: -9px;
+}
+.waves3 {
+	height: 10px;
+	margin-top: -9px;
+}
+.text1 {
+	white-space: pre-line;
+	font-size: 18px;
+	font-family: monospace;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+.text2 {
+	font-weight: normal;
+	font-size: 12px;
+	white-space: nowrap;
+	overflow: hidden;
+	font-size: 18px;
+	margin: 0;
+	line-height: 1; /* Mengurangi jarak antara baris */
+	animation: typing 2s steps(40) forwards, hilang 2s 2s forwards;
+	opacity: 0;
+}
+
+@keyframes typing {
+	0% {
+		width: 0;
+		opacity: 0;
+	}
+	100% {
+		width: 100%;
+		opacity: 1;
+	}
+}
+
+@keyframes hilang {
+	0% {
+		width: 100%;
+	}
+	100% {
+		width: 0%;
+	}
+}
+/* Mengatur animasi berurutan */
+.text2:nth-child(1) {
+	animation-delay: 0s, 14s;
+}
+
+.text2:nth-child(2) {
+	animation-delay: 2s, 12s;
+}
+
+.text2:nth-child(3) {
+	animation-delay: 4s, 10s;
+}
+
+.text2:nth-child(4) {
+	animation-delay: 6s, 8s;
+}
+
+.text1 p {
+	white-space: nowrap;
+	overflow: hidden;
+	font-size: 15px;
+	font-family: monospace;
+	margin: 0;
+	line-height: 1; /* Mengurangi jarak antara baris */
+}

@@ -14,7 +14,6 @@
 	background-color: rgb(196, 191, 191) !important;
 }
 
-/* media query for Android and Iphone */
 @media screen and (max-width: 576px) and (min-width: 0px) {
 	.media1 {
 		margin-bottom: 10px;
@@ -26,7 +25,6 @@
 		margin-bottom: 30px;
 		height: 150px;
 		width: 450px;
-		background-color: #ffffff;
 	}
 	.media2 {
 		margin-bottom: 50px;
@@ -36,7 +34,6 @@
 	}
 }
 
-/* Media Query for Tablet */
 @media screen and (max-width: 768px) and (min-width: 577px) {
 	.media1 {
 		margin-bottom: 10px;
@@ -47,13 +44,12 @@
 	.kotakan-atas {
 		margin-bottom: 30px;
 		height: 150px;
-		width: 450px;
-		background-color: #ffffff;
+		width: 470px;
 	}
 	.media2 {
 		margin-bottom: 50px;
 		margin-right: 170px;
-		width: 430px !important;
+		width: 460px !important;
 		height: 200px !important;
 	}
 }
